@@ -24,5 +24,4 @@ Hello there!<br><br>I'm a passionate and driven Junior .Net Developer with a str
 ---
 [![](https://visitcount.itsvg.in/api?id=MuradMekhtiev&icon=0&color=12)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=MuradMekhtiev&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
