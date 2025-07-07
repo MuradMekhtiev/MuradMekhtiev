@@ -1,5 +1,15 @@
 # 💫 About Me:
-Hello there!<br><br>I'm a passionate and driven Junior .Net Developer with a strong desire to learn and grow in the field of software development. My GitHub account serves as a showcase of my projects and coding abilities. I am dedicated to writing clean, efficient, and well-documented code, and I strive to contribute to projects that make a positive impact. With a solid foundation in .Net development, I am constantly expanding my skills and exploring new technologies to enhance my capabilities. I believe in the power of collaboration and open-source development, and I'm excited to connect with fellow developers and contribute to the coding community.
+👋 Hi, I'm Murad Mehtiyev — an IT Support Specialist and Junior Backend Developer with a passion for building practical tools that solve real-world problems.
+
+💻 I enjoy working with Node.js, Django, and .NET Core, and have experience developing REST APIs, support ticket systems, and inventory management platforms. I'm comfortable across Windows and Linux, and I’ve worked extensively with PostgreSQL, MongoDB, and MS SQL Server.
+
+🛠️ I also bring hands-on IT support experience — from troubleshooting systems and networks to automating onboarding processes and managing hardware/software assets.
+
+🎓 Currently pursuing my BSc in Computer Engineering at Kocaeli University.
+📍 Based in Baku, open to relocation (especially in Europe).
+📜 Certified: CompTIA A+
+
+🔗 Let’s connect: LinkedIn
 
 
 ## 🌐 Socials:
